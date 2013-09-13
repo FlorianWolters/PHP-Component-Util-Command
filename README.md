@@ -147,7 +147,7 @@ Run the command `phing` in the component's top-level folder to see the full list
 
 ## Contributing
 
-See <CONTRIBUTING.md>.
+See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## Credits
 
