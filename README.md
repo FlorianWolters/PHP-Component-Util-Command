@@ -35,11 +35,13 @@
 
 > "Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations."
 
--- E. Gamma, et al. Design Patterns: Elements of Reusable Object-Oriented software. Westford: Addison-Wesley, 1995.
+-- E. Gamma, et al. Design Patterns: Elements of Reusable Object-Oriented Software. Westford: Addison-Wesley, 1995.
 
 ## Features
 
-* Follows the naming conventions for the *Command* design pattern (offers a membermethod `execute()`).
+* Follows the naming conventions for the *Command* design pattern
+  * A command offers a member method `execute()`.
+  * A sequence of commands can be executed with a `MacroCommand`, which implements the *Composite* structural design pattern.
 * Artifacts tested with both static and dynamic test procedures:
     * Dynamic component tests (unit tests) implemented using [PHPUnit][19].
     * Static code analysis performed using the following tools:
@@ -49,13 +51,10 @@
         * [phpdcd][5]: Dead Code Detector (DCD)
 * Installable via [Composer][3] or [PEAR installer][11]:
     * Provides a [Packagist][22] package which can be installed using the dependency manager [Composer][3].
-
         * Click [here][21] for the package on [Packagist][22].
     * Provides a [PEAR package][13] which can be installed using the package manager [PEAR installer][11].
-
         * Click [here][9] for the [PEAR channel][12].
 * Provides a complete Application Programming Interface (API) documentation generated with the documentation generator [phpDocumentor][2].
-
     * Click [here][1] for the current API documentation.
 * Follows the [PSR-0][6] requirements for autoloader interoperability.
 * Follows the [PSR-1][7] basic coding style guide.
