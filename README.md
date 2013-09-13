@@ -1,12 +1,14 @@
 # FlorianWolters\Component\Util\Command
 
 [![Build Status](https://secure.travis-ci.org/FlorianWolters/PHP-Component-Util-Command.png?branch=master)](http://travis-ci.org/FlorianWolters/PHP-Component-Util-Command)
-
 [![Latest Stable Version](https://poser.pugx.org/florianwolters/component-util-command/version.png)](https://packagist.org/packages/florianwolters/component-util-command)
-[![Total Downloads](https://poser.pugx.org/florianwolters/component-util-command/downloads.png)](https://packagist.org/packages/florianwolters/component-util-command)
-[![Monthly Downloads](https://poser.pugx.org/florianwolters/component-util-command/d/monthly.png)](https://packagist.org/packages/florianwolters/component-util-command)
-[![Daily Downloads](https://poser.pugx.org/florianwolters/component-util-command/d/daily.png)](https://packagist.org/packages/florianwolters/component-util-command)
 [![Latest Unstable Version](https://poser.pugx.org/florianwolters/component-util-command/v/unstable.png)](https://packagist.org/packages/florianwolters/component-util-command)
+
+| Period of Time         | Number of Downloads                                                                                                                                                      |
+| ----------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <small>Total</small>   | [![Total Downloads](https://poser.pugx.org/florianwolters/component-util-command/downloads.png)](https://packagist.org/packages/florianwolters/component-util-command)   |
+| <small>Monthly</small> | [![Monthly Downloads](https://poser.pugx.org/florianwolters/component-util-command/d/monthly.png)](https://packagist.org/packages/florianwolters/component-util-command) |
+| <small>Daily</small>   | [![Daily Downloads](https://poser.pugx.org/florianwolters/component-util-command/d/daily.png)](https://packagist.org/packages/florianwolters/component-util-command)     |
 
 **FlorianWolters\Component\Util\Command** is a simple-to-use [PHP][17] component that provides the *Command* behavioral design pattern.
 
