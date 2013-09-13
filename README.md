@@ -1,8 +1,7 @@
 # FlorianWolters\Component\Util\Command
 
 [![Build Status](https://secure.travis-ci.org/FlorianWolters/PHP-Component-Util-Command.png?branch=master)](http://travis-ci.org/FlorianWolters/PHP-Component-Util-Command)
-[![Dependencies Status](https://d2xishtp1ojlk0.cloudfront.net/d/11641448)](http://depending.in/florianwolters/component-util-command)
-[![Coverage Status](https://coveralls.io/repos/florianwolters/component-util-command/badge.png?branch=master)](https://coveralls.io/r/florianwolters/component-util-command?branch=master)
+
 [![Latest Stable Version](https://poser.pugx.org/florianwolters/component-util-command/version.png)](https://packagist.org/packages/florianwolters/component-util-command)
 [![Total Downloads](https://poser.pugx.org/florianwolters/component-util-command/downloads.png)](https://packagist.org/packages/florianwolters/component-util-command)
 [![Monthly Downloads](https://poser.pugx.org/florianwolters/component-util-command/d/monthly.png)](https://packagist.org/packages/florianwolters/component-util-command)
