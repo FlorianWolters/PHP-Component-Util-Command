@@ -1,0 +1,24 @@
+{
+    "name": "florianwolters/component-util-command",
+    "description": "The Command behavioral design pattern as a PHP component.",
+    "type": "library",
+    "keywords": ["command", "utility", "pattern", "behavior"],
+    "homepage": "http://github.com/FlorianWolters/PHP-Component-Util-Command",
+    "license": "LGPL-3.0+",
+    "authors": [
+      {
+        "name": "Florian Wolters",
+        "email": "wolters.fl@gmail.com",
+        "homepage": "http://blog.florianwolters.de",
+        "role": "Developer"
+      }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "FlorianWolters": "src/php"
+        }
+    }
+}
