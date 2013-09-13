@@ -12,6 +12,23 @@
 
 **FlorianWolters\Component\Util\Command** is a simple-to-use [PHP][17] component that provides the *Command* behavioral design pattern.
 
+## Table of Contents (ToC)
+
+* [Introduction](#introduction)
+* [Features](#features)
+* [Requirements](#requirements)
+* [Usage](#usage)
+* [Installation](#installation)
+  * [Local Installation](#local-installation)
+  * [System-Wide Installation](#system-wide-installation)
+* [As A Dependency On Your Component](#as-a-dependency-on-your-component)
+  * [Composer](#composer)
+  * [PEAR](#pear)
+* [Development Environment](#development-environment)
+* [Contributing](#contributing)
+* [Credits](#credits)
+* [License](#license)
+
 ## Introduction
 
 *Command* is a *behavioral* design pattern and defined as follows:
